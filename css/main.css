@@ -1,0 +1,75 @@
+/* Mala practica */
+#mail, #phone{
+    font-size: 1.4em;
+}
+
+#fb, #github, #twitter, #linkedin{
+    font-size: 2.6em;
+}
+
+/* -------- */
+
+div.fondo{
+    background-image: url("../img/FondoNegro.png"); 
+    min-height: 420px;  
+    background-attachment: fixed; 
+    background-position: center; 
+    background-repeat: no-repeat; 
+    background-size: cover;
+}
+
+h2.profesion{
+    color: white;
+    text-decoration: underline #CE5151;
+}
+
+h1.nombre{
+    padding-top: 4em;
+    color: white;
+}
+
+strong{
+    color: #CE5151;
+}
+
+h2.subtitulo{
+    color: #4C4C4C;
+    text-decoration: underline #CE5151;
+}
+
+div.about{
+    min-height: 500px;
+}
+
+div.about p{
+    font-size: 22px;
+}
+
+div.experience{
+    background-image: url("../img/Experience.png"); 
+    min-height: 220px;  
+    background-attachment: fixed; 
+    background-position: center; 
+    background-repeat: no-repeat; 
+    background-size: cover;
+}
+
+#experience{
+    font-size: 40px;
+}
+
+h2.lenguajes{
+    color: white;
+    font-size: 50px;
+    margin-left: 300px;
+}
+
+.textContainer { 
+    height: 225px; 
+    line-height: 225px;
+}
+
+.textContainer h2 {
+    vertical-align: middle;
+    display: inline-block;
+}
